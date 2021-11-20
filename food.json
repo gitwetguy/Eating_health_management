@@ -1,0 +1,19 @@
+{
+  "image_id": 12345,
+  "class": "hamburger",
+  "timestamp": "2021-02-13,13:20:24",
+  "contents": [
+    {
+      "ingredient": "bread_roll",
+      "pixel": 290
+    },
+    {
+      "ingredient": "beef",
+      "pixel": 132
+    },
+    {
+      "ingredient": "tomato",
+      "pixel": 56
+    }
+  ]
+}
